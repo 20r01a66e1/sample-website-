@@ -20,7 +20,7 @@ This is a simple website for an urban fashion brand. It showcases various fashio
 To view the website locally, follow these steps:
 
 1. Clone the repository:
-    git clone https://github.com/20r01a66e1/urban-fashion.git
+    git clone https://github.com/20r01a66e1/sample-website-.git
 
 2. Open the 'index.html' file in your web browser.
 
